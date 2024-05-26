@@ -83,7 +83,7 @@ ul, ol {
 .button:hover,
 .button:focus 
 {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .subtittle-second {
@@ -131,6 +131,7 @@ ul, ol {
 }
 
 .subtitle-third-one {
+    font-weight: 500;
     text-align: center;
     font-size: 20px;
     line-height: 1.2;
